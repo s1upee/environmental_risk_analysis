@@ -66,6 +66,28 @@ This analysis focuses on contaminants found in surface water across Florida, usi
 
 ---
 
+### 7. Excel Dashboard: Environmental Risk Summary (Lead, 2024)
+
+This Excel-based dashboard was created to support Environmental Health and Safety (EHS) review efforts. Using data from `annual_conc_by_monitor_2024.csv`, it presents key statistics and visualizations for Lead (TSP) levels across U.S. states in 2024.
+
+📁 File: `EHS_pollution_dashboard.xlsx`  
+📍 Location: Root directory
+
+**Included Sheets:**
+- `Raw_Data`: Cleaned, summarized data by state
+- `Dashboard`: Visual insights for risk analysis
+
+**Visualizations:**
+- **Top 5 States by Lead Concentration** (bar chart)
+- **Average vs Maximum Lead Levels** (clustered column chart)
+- *(Optional)* Risk Level Table with conditional formatting
+
+🧠 Purpose: To communicate regional environmental risks using clear visuals and accessible tools for non-technical stakeholders.
+
+> 🚫 Note: Raw data files are ignored in GitHub but available in the linked [Google Drive](https://drive.google.com/drive/folders/1BlGL7_Ox9wynv0ihNV6qp8GFndNqJ75A?usp=drive_link)
+
+---
+
 ### 📁 Directory Structure
 
 After downloading, organize the files into the following structure to ensure scripts run correctly:
