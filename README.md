@@ -56,6 +56,14 @@ Assess public health risks by analyzing the most toxic pollutants and their regi
 
 **Why?** → Identify regional vulnerabilities and communicate impact through visuals.
 
+### 5. Public Health & Water Pollution (2024)
+
+This analysis focuses on contaminants found in surface water across Florida, using EPA’s `resultphyschem.csv` dataset. Key steps included filtering valid monitoring locations, extracting key pollutants, and identifying substances with the highest average concentrations (e.g., nitrates and lead). The goal was to explore how water quality impacts public health across regions.
+
+📊 Output: Bar chart of top contaminants by average concentration.
+📁 Data: `data/resultphyschem.csv`
+🧪 Script: `scripts/water_pollution_analysis.py`
+
 ---
 
 ### 📁 Directory Structure
