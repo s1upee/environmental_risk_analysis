@@ -56,7 +56,9 @@ Assess public health risks by analyzing the most toxic pollutants and their regi
 
 **Why?** → Identify regional vulnerabilities and communicate impact through visuals.
 
-### 5. Public Health & Water Pollution (2024)
+---
+
+#### 5. Public Health & Water Pollution (2024)
 
 This analysis focuses on contaminants found in surface water across Florida, using EPA’s `resultphyschem.csv` dataset. Key steps included filtering valid monitoring locations, extracting key pollutants, and identifying substances with the highest average concentrations (e.g., nitrates and lead). The goal was to explore how water quality impacts public health across regions.
 
@@ -66,7 +68,7 @@ This analysis focuses on contaminants found in surface water across Florida, usi
 
 ---
 
-### 7. Excel Dashboard: Environmental Risk Summary (Lead, 2024)
+#### 6. Excel Dashboard: Environmental Risk Summary (Lead, 2024)
 
 This Excel-based dashboard was created to support Environmental Health and Safety (EHS) review efforts. Using data from `annual_conc_by_monitor_2024.csv`, it presents key statistics and visualizations for Lead (TSP) levels across U.S. states in 2024.
 
